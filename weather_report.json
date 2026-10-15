@@ -1,20 +1,20 @@
 {
   "location": {
-    "name": "Nairobi",
-    "admin1": "Nairobi County",
+    "name": "Mombasa",
+    "admin1": "Mombasa County",
     "country": "Kenya",
-    "latitude": -1.28333,
-    "longitude": 36.81667
+    "latitude": -4.05466,
+    "longitude": 39.66359
   },
   "current_weather": {
     "time": "2026-10-15T13:00",
     "interval": 900,
-    "temperature_2m": 24.2,
-    "relative_humidity_2m": 53,
-    "apparent_temperature": 26.3,
-    "precipitation": 0.1,
-    "weather_code": 51,
-    "wind_speed_10m": 10.0
+    "temperature_2m": 29.2,
+    "relative_humidity_2m": 61,
+    "apparent_temperature": 33.2,
+    "precipitation": 0.0,
+    "weather_code": 1,
+    "wind_speed_10m": 17.6
   },
   "units": {
     "time": "iso8601",
