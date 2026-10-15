@@ -1,0 +1,29 @@
+{
+  "location": {
+    "name": "Nairobi",
+    "admin1": "Nairobi County",
+    "country": "Kenya",
+    "latitude": -1.28333,
+    "longitude": 36.81667
+  },
+  "current_weather": {
+    "time": "2026-10-15T13:00",
+    "interval": 900,
+    "temperature_2m": 24.2,
+    "relative_humidity_2m": 53,
+    "apparent_temperature": 26.3,
+    "precipitation": 0.1,
+    "weather_code": 51,
+    "wind_speed_10m": 10.0
+  },
+  "units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "°C",
+    "relative_humidity_2m": "%",
+    "apparent_temperature": "°C",
+    "precipitation": "mm",
+    "weather_code": "wmo code",
+    "wind_speed_10m": "km/h"
+  }
+}
